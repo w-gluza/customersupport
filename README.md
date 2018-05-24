@@ -6,11 +6,13 @@ The data for the service can be fetched at https://kea-alt-del.dk/customersuppor
 Each item in the array is what I call a "request" in the rest of this document
 
 The endpoint provides one additional parameter you can work with if you like
+
 | Parameter | What it does |
 | --- | --- |
 | count=10 | sets the amount of returned support requests |
 
 All requests are generated randomly each time data is fetched
+
 ## Example
 https://kea-alt-del.dk/customersupport/?count=10
 
