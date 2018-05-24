@@ -21,3 +21,17 @@ The following tasks are "required", meaning you should complete them unless you 
 * Each request has an `importance` indicating how quickly the support team should handle the request. I suggest you use color codes to show the importance (red when it's close to 100, green when it's close to 0)
 * Each request has a property called `full`. This contains additional information that should not be visible initiallly, only when requested (like "read more")
 * The support team should be able to mark a request as completed (remove from from the DOM). Consider animating the removal so that it's clear to the end user that it's being removed. The event `animationend` could prove helpfull here
+
+### Suggested tasks
+* Create some sort of visual indication of the amount of requests in the queue, a progress bar? a dial? just a number?
+
+### Hints & ideas
+* Focus on the details, let's see some awesome transitions on hover
+* It's OK to find stuff online, like a preloader from codepen, snippets from stackoverflow
+* jQuery, GSAP or similar is also OK. But before you pull in a huge library, consider if it's something you could do in vanilla JS
+
+#### The idea
+1. Practice JS in a less strict setting
+2. Have a bigger project to play with
+3. Recap `fetch` and `<template>`
+4. We (the teachers) will get a feeling for "where you are", which is also why we'll all three be there
