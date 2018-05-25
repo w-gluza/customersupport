@@ -37,3 +37,6 @@ The following tasks are "required", meaning you should complete them unless you 
 2. Have a bigger project to play with
 3. Recap `fetch` and `<template>`
 4. We (the teachers) will get a feeling for "where you are", which is also why we'll all three be there
+
+#### Final notes
+Hand in your solution on fronter before Monday
